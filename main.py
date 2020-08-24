@@ -44,6 +44,10 @@ if __name__ == '__main__':
     # 2019 AND 2018
     # tentativasarray = ['TICNOVA', '2019', 'UNICESUMAR', 'SBM', 'CESUMAR', 'SOFTWAREBY', 'SOFTWAREBYMARINGA', 'ACCION',
     #                    'BUYSOFT', 'GETCARD', 'TECNOSPEED', 'ALUNO', 'BYTEABYTE', 'ACIM', 'SEBRAE']
+    # Many websites and ecommerces use simple words for discounts, and have no security in the verification API.
+    # So I recommend always taking great care with what will be used.
+    # Muitos sites e ecommerces utilizam palavras simples para descontos, e não possuem segurança na API de verificação.
+    # desses códigos. Por isso recomendo sempre tomar muito cuidado com o que vai ser utilizado.
     tentativasarray = ['TICNOVA', '2020', 'ACCION', 'ACIM', 'BUYSOFT', 'CBN', 'COCAMAR', 'COOPERCARD', 'COOPER',
                        'EVENTEI', 'GETCARD', 'RGK4IT', 'SEBRAE', 'SOFTWAREBY', 'MARINGA', 'TECNOSPEED', 'WIFIRE',
                        'BYTEABYTE']
