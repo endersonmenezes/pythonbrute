@@ -12,7 +12,6 @@ import itertools
 
 URL_SYMPLA = 'https://www.sympla.com.br/ticnova-2019__594324?d='
 URL_EVENTEI = 'http://eventei.com/details.html?event=2c0b6270-dc41-11ea-8598-f1bb3737cf34#ingressos'
-URL_API_VOUCHER = 'https://enjoyleads-api.herokuapp.com/shopping/voucher/2c0b6270-dc41-11ea-8598-f1bb3737cf34/'
 SCRIPTMODE = 1  # Use 2 for Sympla
 
 
